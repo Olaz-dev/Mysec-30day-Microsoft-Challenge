@@ -1,0 +1,5 @@
+SecurityEvent_CL
+| where EventID_s == "4625"
+| summarize failedlogon = count() by Account_s
+|where failedlogon >= 1000
+| sort by failedlogon desc
