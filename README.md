@@ -42,11 +42,17 @@ Microsoft 365 Security Center – Email and identity security
 Microsoft Azure – Infrastructure and environment management
 
 **Current Lab Overview**
+
 Cloud: Microsoft Azure (Subscription: mysec****@.onmicrosoft.com*)
+
 SOC: Microsoft Sentinel (Workspace: Mysec-Olaz-Law)
+
 Resource Group: (mysec-olaz-rg)
+
 Endpoint: 1 Windows VM (WTS-PC2094)
+
 Roles: Security Analyst 
+
 Log Analytics: (Mysec-Olaz-law)
 
 **Connected Data Sources Include:**
