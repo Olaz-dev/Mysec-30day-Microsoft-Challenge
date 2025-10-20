@@ -7,7 +7,7 @@
 
 **Soc Lab Map**
 
-**Current Lab**
+**Current Lab Overview**
 
 **Completed & Current Investigations**
 
@@ -41,4 +41,21 @@ Microsoft 365 Security Center – Email and identity security
 
 Microsoft Azure – Infrastructure and environment management
 
+**Current Lab Overview**
+Cloud: Microsoft Azure (Subscription: mysec****@.onmicrosoft.com*)
+SOC: Microsoft Sentinel (Workspace: Mysec-Olaz-Law)
+Resource Group: (mysec-olaz-rg)
+Endpoint: 1 Windows VM (WTS-PC2094)
+Roles: Security Analyst 
+Log Analytics: (Mysec-Olaz-law)
+
+**Connected Data Sources Include:**
+
+Microsoft 365 (Office 365 services and applications)
+
+Microsoft Defender for Endpoint (endpoint protection and threat detection)
+
+Microsoft Defender XDR (Extended Detection and Response) integrated via the Microsoft Sentinel Content Hub
+
+These services are connected to Microsoft Sentinel using native data connectors that allow real-time data ingestion and correlation for comprehensive security monitoring and threat detection.
 
