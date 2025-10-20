@@ -1,5 +1,3 @@
 This report summarizes the findings from an advanced threat hunting exercise using a KQL query designed to identify organizational accounts subjected to brute force attack attempts exceeding 1,000 within the past 30 days.
 
-[Read More]  (https://aquatic-vicuna-c15.notion.site/Admin-Brute-Force-Report-292b37b0ac8b80b891ffd942511ca01d?source=copy_link)
-
-[Read More] ( https://aquatic-vicuna-c15.notion.site/Admin-Brute-Force-Report-292b37b0ac8b80b891ffd942511ca01d?source=copy_link)
+[Read More] ( https://aquatic-vicuna-c15.notion.site/Admin-Brute-Force-Report-292b37b0ac8b80b891ffd942511ca01d)
